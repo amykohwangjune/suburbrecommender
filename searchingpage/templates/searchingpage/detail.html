@@ -1,0 +1,101 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<head>
+    <title>Suburb Details</title>
+</head>
+
+<body>
+    <div class="container"><br><br>
+        <!-- added back button -->
+        <button class="btn btn-info" onclick="history.back()" type="button">
+            &#8249 BACK</button>
+
+        <br>
+        <br>
+        <br>
+
+        <div class="row">
+            <div class="col-5">
+                <span style="text-transform:uppercase">
+                    <h2 class="subtitle">{{suburb.suburb}} {{suburb.postcode}}<br>Score : {{suburb.suburb_score}}</h2>
+                </span>
+                <h5>
+                    {{suburb.suburb}} is a suburb in Victoria, located {{suburb.transit_time_to_2nd_transit_minutes}}
+                    minutes
+                    from the Melbourne CBD. It is also a {{suburb.transit_time_to_uni}} minute transit away from the
+                    university
+                </h5>
+
+                <br>
+                <h2 class="subtitle">Average Rent</h2>
+                <h5>
+                    ${{suburb.average_rent}} Per Week
+                </h5>
+
+                <br>
+                <h2 class="subtitle">Safety Score</h2>
+                <h5>
+                    {{suburb.safety}}
+                </h5>
+                <h5>
+                    (1: Least Safe, 5: Most Safe)
+                </h5>
+
+                <br>
+                <h2 class="subtitle">Public Transport</h2>
+                <h5>
+                    {{suburb.suburb}} offers a {{suburb.transit_time_to_uni}} minute transit
+                    to the university via public transport
+                </h5>
+
+                <br>
+                <h2 class="subtitle">Late Night Public Transport</h2>
+                <h5>
+                    {{suburb.night_public_transport}}
+                </h5>
+                <br>
+                <h2 class="subtitle">Suburb Detailed Statistics</h2>
+                <br>
+            </div>
+
+            <div class="col-5">
+                <img src="https://www.theadviser.com.au/images/News_stories/REA-850.jpg" alt="Agent Photo">
+                <br><br>
+                <h2 class="agent_text">Contact Agents</h2>
+                <h5 class="agent_regular_text">
+                    MICM Real Estate - 0459 540 095
+                    <br>
+                    618 Lonsdale Street, Melbourne, VIC 3000
+                    <br>
+                    <br>
+                    realestate.com.au - 1300 134 174
+                    <br>
+                    511 Church Street, Richmond, VIC 3121
+                </h5>
+            </div>
+
+            <div class="col-5">
+                {{ pyramid_chart|safe }}
+            </div>
+
+            <div class="col-5">
+                {{ donut_chart|safe }}
+            </div>
+
+            <div class="col-5">
+                {{ diversity_chart|safe }}
+            </div>
+
+            <div class="col-5">
+                {{ transport_chart|safe }}
+            </div>
+        </div>
+        <div class="center">
+            {{ religion_chart|safe }}
+        </div>
+    </div>
+</body>
+
+{% endblock %}

@@ -1,0 +1,229 @@
+id,geo,suburb,postcode,rent,Monash University - Clayton,crime,Early_Trans_Time,Night_Trans_Time,nightPT,uni_driving_distance,city_distance,city_driving_time,city_trans_time
+"(3168, 'Clayton')","(-37.93, 145.12)",Clayton,3168,280,1.6 km,939,19,19,TRUE,1.6 km,25.3 km,31,69
+"(3204, 'Bentleigh')","(-37.92, 145.04)",Bentleigh,3204,250,10.0 km,5654,39,56,TRUE,10.0 km,16.2 km,31,44
+"(3133, 'Vermont South')","(-37.84, 145.19)",Vermont South,3133,350,10.7 km,496,34,39,TRUE,10.7 km,21.5 km,35,81
+"(3204, 'Mckinnon')","(-37.92, 145.04)",Mckinnon,3204,250,10.8 km,5654,39,35,TRUE,10.8 km,15.3 km,31,41
+"(3163, 'Carnegie')","(-37.89, 145.06)",Carnegie,3163,300,10.9 km,759,40,38,TRUE,10.9 km,14.3 km,26,32
+"(3145, 'Malvern East')","(-37.88, 145.05)",Malvern East,3145,325,11.1 km,602,42,40,TRUE,11.1 km,13.9 km,21,42
+"(3175, 'Dunearn')","(-38.03, 145.18)",Dunearn,3175,270,11.1 km,66,37,62,TRUE,11.1 km,32.0 km,33,83
+"(3189, 'Moorabbin')","(-37.93, 145.04)",Moorabbin,3189,380,11.3 km,1114,44,49,TRUE,11.3 km,22.4 km,33,65
+"(3189, 'Moorabbin East')","(-37.93, 145.04)",Moorabbin East,3189,380,11.3 km,606,44,49,TRUE,11.3 km,22.4 km,33,65
+"(3145, 'Darling South')","(-37.88, 145.05)",Darling South,3145,325,11.4 km,88,46,44,TRUE,11.4 km,13.7 km,22,36
+"(3175, 'Dandenong North')","(-38.03, 145.18)",Dandenong North,3175,250,11.4 km,2371,31,55,TRUE,11.4 km,36.0 km,34,89
+"(3147, 'Ashburton')","(-37.86, 145.08)",Ashburton,3147,300,11.8 km,2008,44,54,TRUE,11.8 km,16.0 km,20,45
+"(3125, 'Burwood')","(-37.84, 145.12)",Burwood,3125,330,11.8 km,1002,42,35,TRUE,11.8 km,15.1 km,27,66
+"(3125, 'Surrey Hills South')","(-37.84, 145.12)",Surrey Hills South,3125,330,11.8 km,1002,42,35,TRUE,11.8 km,15.1 km,27,66
+"(3128, 'Box Hill South')","(-37.82, 145.12)",Box Hill South,3128,350,12.0 km,283,44,62,TRUE,12.0 km,19.0 km,29,51
+"(3162, 'Caulfield South')","(-37.88, 145.03)",Caulfield South,3162,300,12.1 km,15,41,41,TRUE,12.1 km,12.5 km,30,50
+"(3131, 'Forest Hill')","(-37.84, 145.18)",Forest Hill,3131,315,12.1 km,117,36,37,TRUE,12.1 km,22.9 km,35,50
+"(3178, 'Rowville')","(-37.93, 145.24)",Rowville,3178,270,12.2 km,6312,37,36,TRUE,12.2 km,33.9 km,35,84
+"(3161, 'Caulfield North')","(-38.03, 145.31)",Caulfield North,3161,300,12.3 km,40,54,62,TRUE,12.3 km,9.4 km,25,45
+"(3187, 'Brighton East')","(-37.9, 145.0)",Brighton East,3187,300,12.4 km,65,48,54,TRUE,12.4 km,15.0 km,31,64
+"(3145, 'Caulfield East')","(-37.88, 145.05)",Caulfield East,3145,310,12.4 km,781,41,36,TRUE,12.4 km,11.2 km,23,30
+"(3128, 'Wattle Park')","(-37.82, 145.12)",Wattle Park,3128,350,12.6 km,343,52,56,TRUE,12.6 km,13.3 km,27,53
+"(3185, 'Gardenvale')","(-37.88, 145.0)",Gardenvale,3185,325,12.7 km,250,36,31,TRUE,12.7 km,11.9 km,27,33
+"(3192, 'Cheltenham')","(-37.96, 145.06)",Cheltenham,3192,340,12.7 km,618,48,59,TRUE,12.7 km,23.4 km,36,63
+"(3192, 'Cheltenham East')","(-37.96, 145.06)",Cheltenham East,3192,340,12.7 km,820,48,59,TRUE,12.7 km,23.4 km,36,63
+"(3163, 'Booran Road Po')","(-37.89, 145.06)",Booran Road Po,3163,300,12.8 km,81,46,49,TRUE,12.8 km,13.1 km,26,38
+"(3131, 'Brentford Square')","(-37.84, 145.18)",Brentford Square,3131,315,13.2 km,260,51,63,TRUE,13.2 km,24.0 km,35,66
+"(3161, 'Caulfield Junction')","(-38.03, 145.31)",Caulfield Junction,3161,300,13.2 km,31,46,57,TRUE,13.2 km,10.3 km,26,43
+"(3172, 'Dingley Village')","(-37.97, 145.12)",Dingley Village,3172,280,13.4 km,297,58,54,TRUE,13.4 km,28.2 km,37,72
+"(3144, 'Malvern North')","(-37.84, 145.03)",Malvern North,3144,310,13.6 km,781,51,57,TRUE,13.6 km,8.4 km,18,37
+"(3133, 'Vermont')","(-37.84, 145.19)",Vermont,3133,350,13.6 km,622,49,94,TRUE,13.6 km,25.8 km,36,67
+"(3192, 'Southland Centre')","(-37.96, 145.06)",Southland Centre,3192,340,13.7 km,820,50,55,TRUE,13.7 km,20.7 km,37,46
+"(3152, 'Wantirna South')","(-37.87, 145.24)",Wantirna South,3152,355,13.7 km,604,32,54,TRUE,13.7 km,35.7 km,36,75
+"(3162, 'Hopetoun Gardens')","(-37.88, 145.03)",Hopetoun Gardens,3162,300,13.8 km,52,48,54,TRUE,13.8 km,10.0 km,29,45
+"(3162, 'Caulfield')","(-37.88, 145.03)",Caulfield,3162,300,13.9 km,220,49,53,TRUE,13.9 km,11.7 km,26,53
+"(3131, 'Nunawading')","(-37.84, 145.18)",Nunawading,3131,335,13.9 km,553,47,50,TRUE,13.9 km,21.5 km,32,40
+"(3188, 'Hampton East')","(-37.93, 145.03)",Hampton East,3188,380,14.1 km,1114,58,51,TRUE,14.1 km,18.6 km,35,52
+"(3163, 'Glen Huntly')","(-37.89, 145.06)",Glen Huntly,3163,300,14.1 km,759,49,48,TRUE,14.1 km,12.7 km,26,33
+"(3180, 'Knoxfield')","(-37.89, 145.25)",Knoxfield,3180,270,14.1 km,6312,46,47,TRUE,14.1 km,42.3 km,38,83
+"(3145, 'Wattletree Road Po')","(-37.88, 145.05)",Wattletree Road Po,3145,325,14.2 km,602,48,59,TRUE,14.2 km,11.1 km,19,44
+"(3185, 'Elsternwick')","(-37.88, 145.0)",Elsternwick,3185,325,14.3 km,4115,41,51,TRUE,14.3 km,10.5 km,27,31
+"(3128, 'Box Hill Central')","(-37.82, 145.12)",Box Hill Central,3128,350,14.3 km,283,51,33,TRUE,14.3 km,16.6 km,30,37
+"(3130, 'Blackburn')","(-37.82, 145.15)",Blackburn,3130,315,14.3 km,383,42,37,TRUE,14.3 km,19.3 km,31,37
+"(3195, 'Waterways')","(-38.03, 145.1)",Waterways,3195,310,14.4 km,300,63,51,TRUE,14.4 km,35.9 km,41,91
+"(3128, 'Box Hill')","(-37.82, 145.12)",Box Hill,3128,240,14.5 km,704,53,35,TRUE,14.5 km,16.8 km,30,35
+"(3152, 'Knox City Centre')","(-37.87, 145.24)",Knox City Centre,3152,338,14.5 km,1473,61,57,TRUE,14.5 km,25.3 km,39,104
+"(3186, 'Brighton North')","(-37.91, 144.99)",Brighton North,3186,315,14.6 km,784,54,43,TRUE,14.6 km,12.7 km,29,33
+"(3190, 'Highett')","(-37.95, 145.03)",Highett,3190,340,14.8 km,618,51,43,TRUE,14.8 km,19.4 km,36,44
+"(3186, 'Brighton')","(-37.91, 144.99)",Brighton,3186,295,14.9 km,723,53,45,TRUE,14.9 km,12.8 km,29,34
+"(3156, 'Mountain Gate')","(-37.88, 145.3)",Mountain Gate,3156,290,14.9 km,705,50,49,TRUE,14.9 km,40.6 km,40,82
+"(3124, 'Hartwell')","(-37.82, 145.06)",Hartwell,3124,300,15.2 km,706,57,49,TRUE,15.2 km,13.8 km,22,41
+"(3146, 'Glen Iris')","(-37.85, 145.07)",Glen Iris,3146,300,15.2 km,370,52,54,TRUE,15.2 km,11.2 km,17,34
+"(3156, 'Ferntree Gully')","(-37.88, 145.3)",Ferntree Gully,3156,348,15.4 km,790,44,43,TRUE,15.4 km,38.7 km,39,70
+"(3143, 'Armadale North')","(-37.86, 145.02)",Armadale North,3143,330,15.5 km,2932,51,45,TRUE,15.5 km,8.0 km,21,24
+"(3143, 'Armadale')","(-37.86, 145.02)",Armadale,3143,300,15.5 km,1326,51,45,TRUE,15.5 km,8.0 km,21,24
+"(3181, 'Prahran East')","(-37.85, 144.99)",Prahran East,3181,270,15.7 km,903,52,57,TRUE,15.7 km,6.7 km,19,33
+"(3181, 'Prahran')","(-37.85, 144.99)",Prahran,3181,270,15.7 km,412.5140736,52,57,TRUE,15.7 km,6.7 km,19,33
+"(3132, 'Mitcham')","(-37.82, 145.19)",Mitcham,3132,335,15.8 km,282,60,63,TRUE,15.8 km,24.1 km,36,55
+"(3173, 'Keysborough')","(-37.99, 145.15)",Keysborough,3173,355,16.2 km,1312,55,63,TRUE,16.2 km,32.9 km,37,73
+"(3175, 'Dandenong')","(-38.03, 145.18)",Dandenong,3175,270,16.2 km,534,41,44,TRUE,16.2 km,32.5 km,36,66
+"(3175, 'Dandenong East')","(-38.03, 145.18)",Dandenong East,3175,270,16.2 km,1316,41,44,TRUE,16.2 km,32.5 km,36,66
+"(3175, 'Dandenong Plaza')","(-38.03, 145.18)",Dandenong Plaza,3175,250,16.3 km,2371,41,42,TRUE,16.3 km,32.4 km,35,66
+"(3195, 'Aspendale Gardens')","(-38.03, 145.1)",Aspendale Gardens,3195,340,16.5 km,273,70,57,TRUE,16.5 km,31.5 km,44,80
+"(3195, 'Braeside')","(-38.03, 145.1)",Braeside,3195,340,16.6 km,273,78,117,TRUE,16.6 km,31.1 km,40,94
+"(8390, 'Melbourne')","(-38.37, 144.77)",Melbourne,8390,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8394, 'Melbourne')","(-38.37, 144.77)",Melbourne,8394,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8396, 'Melbourne')","(-38.37, 144.77)",Melbourne,8396,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8388, 'Melbourne')","(-38.37, 144.77)",Melbourne,8388,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8393, 'Melbourne')","(-38.37, 144.77)",Melbourne,8393,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8386, 'Melbourne')","(-38.37, 144.77)",Melbourne,8386,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8383, 'Melbourne')","(-38.37, 144.77)",Melbourne,8383,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8205, 'Melbourne')","(-38.37, 144.77)",Melbourne,8205,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8120, 'Melbourne')","(-38.37, 144.77)",Melbourne,8120,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8111, 'Melbourne')","(-38.37, 144.77)",Melbourne,8111,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8108, 'Melbourne')","(-38.37, 144.77)",Melbourne,8108,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8107, 'Melbourne')","(-38.37, 144.77)",Melbourne,8107,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8103, 'Melbourne')","(-38.37, 144.77)",Melbourne,8103,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8102, 'Melbourne')","(-38.37, 144.77)",Melbourne,8102,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8071, 'Melbourne')","(-38.37, 144.77)",Melbourne,8071,330,16.6 km,3084,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8070, 'Melbourne')","(-38.37, 144.77)",Melbourne,8070,360,16.6 km,412.5140736,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8069, 'Melbourne')","(-38.37, 144.77)",Melbourne,8069,360,16.6 km,412.5140736,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8066, 'Melbourne')","(-38.37, 144.77)",Melbourne,8066,360,16.6 km,412.5140736,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8061, 'Melbourne')","(-38.37, 144.77)",Melbourne,8061,360,16.6 km,412.5140736,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8051, 'Melbourne')","(-38.37, 144.77)",Melbourne,8051,360,16.6 km,412.5140736,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8060, 'Melbourne')","(-38.37, 144.77)",Melbourne,8060,360,16.6 km,412.5140736,41,41,TRUE,16.6 km,1.7 km,8,11
+"(3001, 'Melbourne')","(-38.37, 144.77)",Melbourne,3001,300,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8001, 'Melbourne')","(-38.37, 144.77)",Melbourne,8001,280,16.6 km,224,41,41,TRUE,16.6 km,1.7 km,8,11
+"(8399, 'Melbourne')","(-38.37, 144.77)",Melbourne,8399,330,16.6 km,14270,41,41,TRUE,16.6 km,1.7 km,8,11
+"(3124, 'Camberwell West')","(-37.82, 145.06)",Camberwell West,3124,300,16.7 km,706,58,63,TRUE,16.7 km,11.6 km,18,49
+"(3129, 'Box Hill North')","(-37.8, 145.13)",Box Hill North,3129,350,16.7 km,343,75,56,TRUE,16.7 km,18.7 km,27,46
+"(3130, 'Blackburn North')","(-37.82, 145.15)",Blackburn North,3130,315,16.7 km,1421,66,61,TRUE,16.7 km,21.3 km,28,46
+"(3177, 'Doveton')","(-38.0, 145.24)",Doveton,3177,270,16.7 km,6312,58,54,TRUE,16.7 km,35.0 km,35,83
+"(3185, 'Ripponlea')","(-37.88, 145.0)",Ripponlea,3185,295,16.8 km,597,55,47,TRUE,16.8 km,7.8 km,24,36
+"(3124, 'Camberwell South')","(-37.82, 145.06)",Camberwell South,3124,300,16.8 km,1371,69,61,TRUE,16.8 km,13.7 km,19,42
+"(3124, 'Middle Camberwell')","(-37.82, 145.06)",Middle Camberwell,3124,330,16.8 km,1002,65,57,TRUE,16.8 km,10.0 km,22,44
+"(3124, 'Camberwell')","(-37.82, 145.06)",Camberwell,3124,300,16.8 km,1371,65,57,TRUE,16.8 km,10.0 km,22,44
+"(3124, 'Camberwell North')","(-37.82, 145.06)",Camberwell North,3124,300,16.8 km,1371,65,57,TRUE,16.8 km,10.0 km,22,44
+"(3183, 'St Kilda East')","(-37.87, 145.0)",St Kilda East,3183,325,16.9 km,2289,54,50,TRUE,16.9 km,8.3 km,23,42
+"(3122, 'Auburn South')","(-37.84, 145.05)",Auburn South,3122,350,16.9 km,218,59,68,TRUE,16.9 km,10.1 km,17,39
+"(3129, 'Kerrimuir')","(-37.8, 145.13)",Kerrimuir,3129,315,17.0 km,1421,72,65,TRUE,17.0 km,20.5 km,29,50
+"(3184, 'Brighton Road')","(-37.88, 145.0)",Brighton Road,3184,325,17.1 km,974,56,51,TRUE,17.1 km,7.5 km,23,33
+"(3196, 'Edithvale')","(-38.06, 145.12)",Edithvale,3196,310,17.1 km,839,56,43,TRUE,17.1 km,30.9 km,44,64
+"(3144, 'Malvern')","(-37.84, 145.03)",Malvern,3144,330,17.4 km,2932,61,62,TRUE,17.4 km,8.9 km,17,39
+"(3186, 'Were Street Po')","(-37.91, 144.99)",Were Street Po,3186,300,17.5 km,555,58,64,TRUE,17.5 km,16.1 km,33,45
+"(3123, 'Hawthorn East')","(-37.83, 145.04)",Hawthorn East,3123,300,17.6 km,1371,65,56,TRUE,17.6 km,9.2 km,20,43
+"(3193, 'Beaumaris')","(-37.99, 145.03)",Beaumaris,3193,340,17.6 km,812,81,54,FALSE,17.6 km,24.5 km,44,67
+"(3184, 'Elwood')","(-37.88, 145.0)",Elwood,3184,320,17.7 km,4115,63,67,TRUE,17.7 km,9.9 km,25,36
+"(3129, 'Mont Albert North')","(-37.8, 145.13)",Mont Albert North,3129,315,17.8 km,1421,74,67,TRUE,17.8 km,15.8 km,26,44
+"(8004, 'St Kilda Road')","(-37.84, 144.98)",St Kilda Road,8004,280,17.9 km,6,58,63,TRUE,17.9 km,3.9 km,15,21
+"(3196, 'Chelsea Heights')","(-38.06, 145.12)",Chelsea Heights,3196,310,17.9 km,839,66,70,TRUE,17.9 km,35.0 km,43,78
+"(3177, 'Eumemmerring')","(-38.0, 145.24)",Eumemmerring,3177,270,17.9 km,1246,53,336,TRUE,17.9 km,36.4 km,36,76
+"(3004, 'St Kilda Road Central')","(-37.84, 144.98)",St Kilda Road Central,3004,300,18.1 km,4831,59,61,TRUE,18.1 km,2.8 km,13,17
+"(3111, 'Donvale')","(-38.18, 144.47)",Donvale,3111,340,18.1 km,851,67,71,TRUE,18.1 km,25.2 km,32,65
+"(3144, 'Kooyong')","(-37.84, 145.03)",Kooyong,3144,330,18.3 km,2932,56,58,TRUE,18.3 km,7.8 km,16,25
+"(3182, 'St Kilda South')","(-37.87, 144.98)",St Kilda South,3182,348,18.4 km,468,66,66,TRUE,18.4 km,8.2 km,23,38
+"(3109, 'Tunstall Square Po')","(-37.81, 145.19)",Tunstall Square Po,3109,340,18.4 km,417,57,61,TRUE,18.4 km,22.1 km,31,57
+"(3181, 'Windsor')","(-37.85, 144.99)",Windsor,3181,270,18.6 km,209,49,62,TRUE,18.6 km,6.9 km,20,22
+"(3182, 'St Kilda')","(-37.87, 144.98)",St Kilda,3182,330,18.9 km,1303,64,69,TRUE,18.9 km,6.4 km,21,33
+"(3122, 'Glenferrie South')","(-37.84, 145.05)",Glenferrie South,3122,350,19.0 km,3899,69,61,TRUE,19.0 km,7.2 km,17,31
+"(3127, 'Mont Albert')","(-37.82, 145.1)",Mont Albert,3127,330,19.0 km,1002,62,58,TRUE,19.0 km,15.5 km,29,40
+"(3132, 'Mitcham North')","(-37.82, 145.19)",Mitcham North,3132,335,19.0 km,254,63,71,TRUE,19.0 km,24.5 km,32,62
+"(3142, 'Toorak')","(-37.84, 145.0)",Toorak,3142,300,19.1 km,22,60,62,TRUE,19.1 km,7.9 km,17,43
+"(3121, 'Cremorne')","(-37.83, 145.01)",Cremorne,3121,340,19.1 km,91,53,64,TRUE,19.1 km,3.8 km,14,24
+"(3188, 'Hampton')","(-37.93, 145.03)",Hampton,3188,380,19.1 km,1114,60,67,TRUE,19.1 km,17.5 km,33,43
+"(3188, 'Hampton North')","(-37.93, 145.03)",Hampton North,3188,380,19.1 km,1114,69,74,TRUE,19.1 km,18.0 km,36,50
+"(3194, 'Mentone East')","(-37.98, 145.06)",Mentone East,3194,350,19.1 km,1405,57,59,TRUE,19.1 km,23.6 km,39,51
+"(3194, 'Mentone')","(-37.98, 145.06)",Mentone,3194,350,19.1 km,1405,57,59,TRUE,19.1 km,23.6 km,39,51
+"(3196, 'Chelsea')","(-38.06, 145.12)",Chelsea,3196,310,19.2 km,216,62,48,TRUE,19.2 km,32.6 km,46,63
+"(3121, 'Richmond')","(-37.83, 145.01)",Richmond,3121,340,19.4 km,49,51,66,TRUE,19.4 km,4.0 km,15,21
+"(3121, 'Richmond South')","(-37.83, 145.01)",Richmond South,3121,350,19.4 km,3899,51,66,TRUE,19.4 km,4.0 km,15,21
+"(3004, 'Melbourne')","(-37.84, 144.98)",Melbourne,3004,300,19.5 km,4831,59,70,TRUE,19.5 km,2.9 km,14,25
+"(3191, 'Sandringham')","(-37.95, 145.01)",Sandringham,3191,340,19.5 km,475,70,69,TRUE,19.5 km,19.4 km,37,51
+"(3127, 'Surrey Hills North')","(-37.82, 145.1)",Surrey Hills North,3127,240,19.6 km,704,62,68,TRUE,19.6 km,14.5 km,28,36
+"(3127, 'Surrey Hills')","(-37.82, 145.1)",Surrey Hills,3127,240,19.6 km,704,62,68,TRUE,19.6 km,14.5 km,28,36
+"(3109, 'Doncaster East')","(-37.81, 145.19)",Doncaster East,3109,340,19.6 km,447,57,61,TRUE,19.6 km,20.4 km,30,50
+"(3166, 'Oakleigh East')","(-37.9, 145.08)",Oakleigh East,3166,280,2.3 km,992,15,12,TRUE,2.3 km,20.3 km,27,52
+"(3168, 'Notting Hill')","(-37.93, 145.12)",Notting Hill,3168,280,2.3 km,427,11,10,TRUE,2.3 km,23.8 km,26,73
+"(3183, 'Balaclava')","(-37.87, 145.0)",Balaclava,3183,325,20.0 km,2289,49,50,TRUE,20.0 km,8.4 km,24,23
+"(3109, 'Doncaster Heights')","(-37.81, 145.19)",Doncaster Heights,3109,340,20.1 km,447,60,63,TRUE,20.1 km,20.2 km,30,51
+"(3802, 'Endeavour Hills')","(-37.98, 145.25)",Endeavour Hills,3802,288,20.2 km,109,68,81,TRUE,20.2 km,38.8 km,36,91
+"(3156, 'Upper Ferntree Gully')","(-37.88, 145.3)",Upper Ferntree Gully,3156,290,20.3 km,250,58,70,TRUE,20.3 km,38.4 km,45,64
+"(3182, 'St Kilda West')","(-37.87, 144.98)",St Kilda West,3182,348,20.4 km,508,77,91,TRUE,20.4 km,6.6 km,21,32
+"(3156, 'Lysterfield')","(-37.88, 145.3)",Lysterfield,3156,348,20.6 km,1445,66,393,TRUE,20.6 km,42.1 km,38,83
+"(3195, 'Parkdale')","(-38.03, 145.1)",Parkdale,3195,310,20.7 km,78,57,49,TRUE,20.7 km,25.2 km,41,51
+"(3152, 'Wantirna')","(-37.87, 145.24)",Wantirna,3152,355,21.0 km,2173,66,64,TRUE,21.0 km,30.9 km,36,63
+"(3002, 'East Melbourne')","(-37.82, 144.99)",East Melbourne,3002,360,21.3 km,1022,57,80,TRUE,21.3 km,1.9 km,8,11
+"(3197, 'Patterson Lakes')","(-38.08, 145.12)",Patterson Lakes,3197,310,21.4 km,29,75,339,TRUE,21.4 km,38.4 km,41,91
+"(8002, 'East Melbourne')","(-38.11, 145.15)",East Melbourne,8002,280,21.4 km,50,59,81,TRUE,21.4 km,2.8 km,10,17
+"(3121, 'Burnley')","(-37.83, 145.01)",Burnley,3121,340,21.5 km,55,66,73,TRUE,21.5 km,6.3 km,13,26
+"(3121, 'Burnley North')","(-37.83, 145.01)",Burnley North,3121,340,21.5 km,106,66,73,TRUE,21.5 km,6.3 km,13,26
+"(3126, 'Canterbury')","(-37.84, 145.09)",Canterbury,3126,330,21.6 km,1002,71,78,TRUE,21.6 km,12.2 km,26,36
+"(3803, 'Hallam')","(-38.0, 145.27)",Hallam,3803,288,21.6 km,20,61,79,TRUE,21.6 km,40.1 km,38,72
+"(8011, 'Little Lonsdale Street')","(-37.81, 144.96)",Little Lonsdale Street,8011,360,21.7 km,412.5140736,49,71,TRUE,21.7 km,0.6 km,8,5
+"(3206, 'Middle Park')","(-37.84, 144.96)",Middle Park,3206,300,21.8 km,851,82,95,TRUE,21.8 km,5.6 km,18,30
+"(8006, 'Abeckett Street')","(-37.81, 144.96)",Abeckett Street,8006,280,21.9 km,12,52,74,TRUE,21.9 km,0.9 km,10,8
+"(3193, 'Black Rock')","(-37.99, 145.03)",Black Rock,3193,340,21.9 km,578,73,64,TRUE,21.9 km,22.2 km,40,59
+"(3134, 'Ringwood')","(-37.81, 145.23)",Ringwood,3134,330,21.9 km,662,62,57,TRUE,21.9 km,26.4 km,34,47
+"(3109, 'The Pines')","(-37.81, 145.19)",The Pines,3109,340,22.0 km,376,67,75,TRUE,22.0 km,24.6 km,36,54
+"(3126, 'Camberwell East')","(-37.84, 145.09)",Camberwell East,3126,330,22.1 km,1002,64,70,TRUE,22.1 km,11.5 km,24,27
+"(3000, 'Melbourne')","(-37.81, 144.97)",Melbourne,3000,300,22.2 km,14270,55,65,TRUE,22.2 km,3 m,1,1
+"(3122, 'Hawthorn West')","(-37.84, 145.05)",Hawthorn West,3122,350,22.2 km,3899,58,71,TRUE,22.2 km,5.3 km,17,28
+"(3065, 'Fitzroy')","(-37.8, 144.98)",Fitzroy,3065,380,22.4 km,1917,67,88,TRUE,22.4 km,3.1 km,15,21
+"(3053, 'Carlton South')","(-37.78, 144.97)",Carlton South,3053,255,22.4 km,2227,59,77,TRUE,22.4 km,2.1 km,9,15
+"(3103, 'Balwyn East')","(-37.81, 145.08)",Balwyn East,3103,300,22.4 km,11,71,63,TRUE,22.4 km,11.4 km,29,44
+"(3103, 'Balwyn')","(-37.81, 145.08)",Balwyn,3103,300,22.4 km,20,71,63,TRUE,22.4 km,11.4 km,29,44
+"(3976, 'Hampton Park')","(-38.03, 145.27)",Hampton Park,3976,310,22.4 km,238,70,89,TRUE,22.4 km,41.0 km,41,88
+"(3108, 'Doncaster')","(-37.78, 145.12)",Doncaster,3108,340,22.5 km,558,74,67,TRUE,22.5 km,17.7 km,27,44
+"(3785, 'Tremont')","(-38.27, 144.49)",Tremont,3785,288,22.5 km,162,96,100,TRUE,22.5 km,40.7 km,55,93
+"(3154, 'The Basin')","(-37.85, 145.31)",The Basin,3154,348,22.8 km,1445,83,428,TRUE,22.8 km,38.5 km,48,84
+"(3066, 'Collingwood North')","(-37.8, 144.98)",Collingwood North,3066,350,22.9 km,1620,71,91,TRUE,22.9 km,3.5 km,14,25
+"(3066, 'Collingwood')","(-37.8, 144.98)",Collingwood,3066,350,22.9 km,1620,71,91,TRUE,22.9 km,3.5 km,14,25
+"(3050, 'Royal Melbourne Hospital')","(-37.8, 144.96)",Royal Melbourne Hospital,3050,300,23.0 km,412.5140736,61,78,TRUE,23.0 km,2.1 km,13,13
+"(3052, 'Melbourne University')","(-37.8, 144.96)",Melbourne University,3052,300,23.0 km,759,64,73,TRUE,23.0 km,2.0 km,10,11
+"(3010, 'University Of Melbourne')","(-37.8, 144.96)",University Of Melbourne,3010,300,23.0 km,412.5140736,64,73,TRUE,23.0 km,2.0 km,10,11
+"(3122, 'Hawthorn')","(-37.84, 145.05)",Hawthorn,3122,350,23.1 km,3899,57,72,TRUE,23.1 km,8.9 km,18,26
+"(3122, 'Hawthorn North')","(-37.84, 145.05)",Hawthorn North,3122,350,23.1 km,3899,57,72,TRUE,23.1 km,8.9 km,18,26
+"(3158, 'Upwey')","(-37.9, 145.33)",Upwey,3158,330,23.2 km,1888,66,93,TRUE,23.2 km,40.7 km,47,64
+"(3195, 'Mordialloc')","(-38.03, 145.1)",Mordialloc,3195,310,23.6 km,789,75,67,TRUE,23.6 km,28.1 km,42,68
+"(3195, 'Mordialloc North')","(-38.03, 145.1)",Mordialloc North,3195,310,23.6 km,789,75,67,TRUE,23.6 km,28.1 km,42,68
+"(3135, 'Bedford Road')","(-37.82, 145.25)",Bedford Road,3135,350,23.8 km,479,74,65,TRUE,23.8 km,27.4 km,37,59
+"(3805, 'Narre Warren')","(-38.02, 145.3)",Narre Warren,3805,288,23.8 km,109,57,71,TRUE,23.8 km,41.9 km,41,74
+"(3160, 'Tecoma')","(-37.91, 145.36)",Tecoma,3160,300,23.8 km,221,62,97,TRUE,23.8 km,42.0 km,47,69
+"(3805, 'Fountain Gate')","(-38.02, 145.3)",Fountain Gate,3805,288,23.9 km,10,61,74,TRUE,23.9 km,42.6 km,38,76
+"(3053, 'Carlton')","(-37.78, 144.97)",Carlton,3053,255,24.0 km,2227,70,80,TRUE,24.0 km,3.2 km,11,19
+"(3068, 'Fitzroy North')","(-37.79, 144.99)",Fitzroy North,3068,330,24.0 km,1006,70,91,TRUE,24.0 km,4.7 km,17,23
+"(3054, 'Carlton North')","(-37.78, 144.97)",Carlton North,3054,320,24.1 km,459,69,88,TRUE,24.1 km,4.7 km,15,22
+"(3067, 'Abbotsford')","(-37.8, 145.0)",Abbotsford,3067,350,24.1 km,1398,71,87,TRUE,24.1 km,4.7 km,17,24
+"(3051, 'Hotham Hill')","(-37.91, 145.06)",Hotham Hill,3051,310,24.2 km,1788,69,85,TRUE,24.2 km,3.2 km,19,20
+"(3135, 'Heathmont')","(-37.82, 145.25)",Heathmont,3135,350,24.2 km,2799,65,77,TRUE,24.2 km,28.7 km,36,48
+"(3006, 'South Wharf')","(-37.82, 144.97)",South Wharf,3006,330,24.3 km,178,63,85,TRUE,24.3 km,1.9 km,17,16
+"(3135, 'Ringwood East')","(-37.82, 145.25)",Ringwood East,3135,350,24.3 km,2799,66,73,TRUE,24.3 km,28.8 km,37,56
+"(3175, 'Dandenong South')","(-38.03, 145.18)",Dandenong South,3175,250,24.3 km,386,69,68,TRUE,24.3 km,38.2 km,42,86
+"(3164, 'Dandenong South')","(-38.02, 145.24)",Dandenong South,3164,300,24.3 km,431,69,68,TRUE,24.3 km,38.2 km,42,86
+"(3137, 'Kilsyth South')","(-37.8, 145.31)",Kilsyth South,3137,350,24.3 km,519,91,404,TRUE,24.3 km,39.5 km,46,99
+"(3104, 'Balwyn North')","(-37.79, 145.07)",Balwyn North,3104,338,24.7 km,1307,80,83,TRUE,24.7 km,12.5 km,26,54
+"(3057, 'Sumner')","(-37.76, 144.98)",Sumner,3057,350,24.9 km,796,71,99,TRUE,24.9 km,5.6 km,19,26
+"(3114, 'Park Orchards')","(-37.78, 145.21)",Park Orchards,3114,340,25.0 km,851,75,92,TRUE,25.0 km,30.0 km,38,71
+"(3166, 'Huntingdale')","(-37.9, 145.08)",Huntingdale,3166,290,3.0 km,320,17,15,TRUE,3.0 km,19.9 km,27,51
+"(3150, 'Brandon Park')","(-37.88, 145.17)",Brandon Park,3150,340,3.6 km,712,18,22,TRUE,3.6 km,25.9 km,28,76
+"(3149, 'Pinewood')","(-37.88, 145.13)",Pinewood,3149,240,4.0 km,625,16,14,TRUE,4.0 km,22.1 km,25,68
+"(3167, 'Oakleigh South')","(-37.93, 145.1)",Oakleigh South,3167,280,5.1 km,939,24,26,TRUE,5.1 km,19.8 km,29,51
+"(3171, 'Sandown Village')","(-37.95, 145.16)",Sandown Village,3171,280,5.2 km,1652,19,40,TRUE,5.2 km,28.1 km,31,62
+"(3166, 'Oakleigh')","(-37.9, 145.08)",Oakleigh,3166,280,5.3 km,369,19,18,TRUE,5.3 km,17.3 km,25,39
+"(3149, 'Syndal')","(-37.88, 145.13)",Syndal,3149,340,5.3 km,712,18,15,TRUE,5.3 km,20.2 km,28,43
+"(3169, 'Clayton South')","(-37.94, 145.1)",Clayton South,3169,340,5.4 km,1168,43,38,TRUE,5.4 km,24.5 km,34,60
+"(3149, 'Mount Waverley')","(-37.88, 145.13)",Mount Waverley,3149,240,5.7 km,576,20,19,TRUE,5.7 km,18.5 km,28,42
+"(3166, 'Hughesdale')","(-37.9, 145.08)",Hughesdale,3166,290,6.2 km,740,25,20,TRUE,6.2 km,16.5 km,23,42
+"(3171, 'Springvale')","(-37.95, 145.16)",Springvale,3171,280,6.2 km,163,27,47,TRUE,6.2 km,25.1 km,34,48
+"(3150, 'Wheelers Hill')","(-37.88, 145.17)",Wheelers Hill,3150,340,6.4 km,712,26,26,TRUE,6.4 km,26.7 km,29,68
+"(3170, 'Mulgrave')","(-37.87, 145.1)",Mulgrave,3170,340,6.8 km,309,31,34,TRUE,6.8 km,29.4 km,32,73
+"(3169, 'Clarinda')","(-37.94, 145.1)",Clarinda,3169,340,6.8 km,114,33,35,TRUE,6.8 km,24.6 km,32,59
+"(3163, 'Murrumbeena')","(-37.89, 145.06)",Murrumbeena,3163,300,7.1 km,360,32,27,TRUE,7.1 km,16.6 km,25,44
+"(3170, 'Waverley Gardens')","(-37.87, 145.1)",Waverley Gardens,3170,340,7.4 km,436,30,25,TRUE,7.4 km,31.2 km,31,79
+"(3151, 'Burwood East')","(-37.86, 145.14)",Burwood East,3151,338,7.4 km,1473,20,17,TRUE,7.4 km,22.7 km,32,57
+"(3150, 'Glen Waverley')","(-37.88, 145.17)",Glen Waverley,3150,340,8.0 km,712,20,37,TRUE,8.0 km,22.1 km,30,55
+"(3172, 'Springvale South')","(-37.97, 145.12)",Springvale South,3172,280,8.4 km,907,40,30,TRUE,8.4 km,27.6 km,38,65
+"(3165, 'Bentleigh East')","(-37.93, 145.06)",Bentleigh East,3165,300,8.5 km,431,39,42,TRUE,8.5 km,18.2 km,29,49
+"(3204, 'Ormond')","(-37.92, 145.04)",Ormond,3204,250,9.4 km,795,27,24,TRUE,9.4 km,14.5 km,27,38
+"(3147, 'Ashwood')","(-37.86, 145.08)",Ashwood,3147,300,9.7 km,2008,40,48,TRUE,9.7 km,15.2 km,25,52
+"(3130, 'Blackburn South')","(-37.82, 145.15)",Blackburn South,3130,315,9.8 km,1421,32,28,TRUE,9.8 km,21.2 km,34,58
+"(3174, 'Noble Park North')","(-37.97, 145.18)",Noble Park North,3174,270,9.8 km,2221,37,52,TRUE,9.8 km,28.0 km,34,52
+"(3202, 'Heatherton')","(-37.97, 145.21)",Heatherton,3202,250,9.8 km,486,37,29,TRUE,9.8 km,28.2 km,34,71
+"(3148, 'Holmesglen')","(-37.89, 145.08)",Holmesglen,3148,300,9.9 km,2008,43,39,TRUE,9.9 km,16.4 km,22,53
+"(3148, 'Chadstone')","(-37.89, 145.08)",Chadstone,3148,300,9.9 km,2008,43,39,TRUE,9.9 km,16.4 km,22,53
+"(3148, 'Chadstone Centre')","(-37.89, 145.08)",Chadstone Centre,3148,300,9.9 km,2008,43,39,TRUE,9.9 km,16.4 km,22,53
+"(3174, 'Noble Park')","(-37.97, 145.18)",Noble Park,3174,355,9.9 km,1312,37,52,TRUE,9.9 km,28.0 km,34,52
+"(3174, 'Noble Park East')","(-37.97, 145.18)",Noble Park East,3174,270,9.9 km,2221,37,52,TRUE,9.9 km,28.0 km,34,52
+"(3179, 'Scoresby')","(-37.86, 145.26)",Scoresby,3179,270,9.9 km,992,39,38,TRUE,9.9 km,30.1 km,33,77

@@ -1,0 +1,127 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<head>
+    <title>Start Search</title>
+</head>
+
+<body>
+    <div class="container">
+        <br>
+        <br>
+        <h1>Let's get started !</h1>
+        <div class="filter">
+            <form method="post" action="resultpage/">
+                {% csrf_token %}
+                <label class="search_label" for="university"><span class="logo_colour"><i
+                            class="bi bi-funnel-fill"></i></span> University :</label>
+                    <select name="university" name="university" required>
+                        {% for uni in uni %}
+                        <option class="dropdown_box" value="{{ uni.University }}">{{ uni.University }}</option>
+                        {% endfor %}
+                    </select><br>
+                    <div class="row">
+                        <div class="col-3">Importance of Distance?</div>
+                        <div class="col-6">
+                            <label for="1"><input type="radio" id="1" name="distance_importance" value="1" required> 1 </label>
+                            <label for="2"><input type="radio" id="2" name="distance_importance" value="2" required> 2 </label>
+                            <label for="3"><input type="radio" id="3" name="distance_importance" value="3" required> 3 </label>
+                            <label for="4"><input type="radio" id="4" name="distance_importance" value="4" required> 4 </label>
+                            <label for="5"><input type="radio" id="5" name="distance_importance" value="5" required> 5 </label>
+                        </div>
+                    </div>
+                <br>
+                <label class="search_label" for="city_distance"><span class="logo_colour"><i
+                            class="bi bi-funnel-fill"></i></span> City Distance ? (KM) </label>
+                    <input class="boxsize" type="number" name="city_distance" min="0" required> KM <br>
+                    <div class="row">
+                        <div class="col-3">Importance of the distance between your location to the city?</div>
+                        <div class="col-6">
+                            <label for="1"><input type="radio" id="1" name="city_importance" value="1" required> 1 </label>
+                            <label for="2"><input type="radio" id="2" name="city_importance" value="2" required> 2 </label>
+                            <label for="3"><input type="radio" id="3" name="city_importance" value="3" required> 3 </label>
+                            <label for="4"><input type="radio" id="4" name="city_importance" value="4" required> 4 </label>
+                            <label for="5"><input type="radio" id="5" name="city_importance" value="5" required> 5 </label>
+                        </div>
+                    </div>
+                <br>
+                <label class="search_label" for="transit_time"><span class="logo_colour"><i
+                            class="bi bi-funnel-fill"></i></span> Transit Time (Minutes) : </label>
+                    <input class="boxsize" type="number" name="transit_time" min="0" required> Minutes
+                    <br>
+                    <div class="row">
+                        <div class="col-3">Importance of Transit Time?</div>
+                        <div class="col-6">
+                            <label for="1"><input type="radio" id="1" name="transit_importance" value="1" required> 1 </label>
+                            <label for="2"><input type="radio" id="2" name="transit_importance" value="2" required> 2 </label>
+                            <label for="3"><input type="radio" id="3" name="transit_importance" value="3" required> 3 </label>
+                            <label for="4"><input type="radio" id="4" name="transit_importance" value="4" required> 4 </label>
+                            <label for="5"><input type="radio" id="5" name="transit_importance" value="5" required> 5 </label>
+                        </div>
+                    </div>
+                <br>
+                <label class="search_label" for="avg_rent"><span class="logo_colour">
+                    <i class="bi bi-funnel-fill"></i></span> Average Range (Per Week) : <br> ( Min : ${{ rentMin }} ; Max : ${{ rentMax }} )</label>
+                    <input class="boxsize" id="rentCheck" type="number" name="avg_rent" min="{{ rentMin }}" max="{{ rentMax }}" required> AUD
+                    <span id="errorMsg" style="display:none;">( You can give rent ${{ rentMin }} to ${{ rentMax }} only ! )</span>
+                    <br>
+                    <div class="row">
+                        <div class="col-3">Importance of Rental Fee?</div>
+                        <div class="col-6">
+                            <label for="1"><input type="radio" id="1" name="rental_importance" value="1" required> 1 </label>
+                            <label for="2"><input type="radio" id="2" name="rental_importance" value="2" required> 2 </label>
+                            <label for="3"><input type="radio" id="3" name="rental_importance" value="3" required> 3 </label>
+                            <label for="4"><input type="radio" id="4" name="rental_importance" value="4" required> 4 </label>
+                            <label for="5"><input type="radio" id="5" name="rental_importance" value="5" required> 5 </label>
+                        </div>
+                    </div>
+                <br>
+                <label class="search_label" for="safety"><span class="logo_colour"><i
+                            class="bi bi-funnel-fill"></i></span>
+                    Safety Rating : </label>
+                    <select name="safety" name="safety" required>
+                        <option class="dropdown_box" value="1">1</option>
+                        <option class="dropdown_box" value="2">2</option>
+                        <option class="dropdown_box" value="3">3</option>
+                        <option class="dropdown_box" value="4">4</option>
+                        <option class="dropdown_box" value="5">5</option>
+                    </select>
+                <br><br>
+                <label class="search_label" for="public_transport"><span class="logo_colour"><i
+                            class="bi bi-funnel-fill"></i></span> Night Public Transport : </label>
+                    <select name="public_transport" name="public_transport" required>
+                        <option class="dropdown_box" value="yes">Yes</option>
+                        <option class="dropdown_box" value="no">No</option>
+                    </select>
+                    <br>
+                    <div class="row">
+                        <div class="col-3">Importance of Night Transit?</div>
+                        <div class="col-6">
+                            <label for="1"><input type="radio" id="1" name="night_importance" value="1" required> 1 </label>
+                            <label for="2"><input type="radio" id="2" name="night_importance" value="2" required> 2 </label>
+                            <label for="3"><input type="radio" id="3" name="night_importance" value="3" required> 3 </label>
+                            <label for="4"><input type="radio" id="4" name="night_importance" value="4" required> 4 </label>
+                            <label for="5"><input type="radio" id="5" name="night_importance" value="5" required> 5 </label>
+                        </div>
+                    </div>
+                <br>
+                <br>
+                <button type="submit" class="btn btn-info">Search</button>
+            </form>
+        </div>
+    </div>
+    <script>
+        $( "#rentCheck" ).keyup(function() {
+            if($('#rentCheck').val()<-0 || $('#rentCheck').val()>400 ){
+                $('#errorMsg').show();
+            }
+            else{
+            $('#errorMsg').hide();
+            }
+        });
+    </script>
+</body>
+
+
+{% endblock %}

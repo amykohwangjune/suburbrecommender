@@ -1,0 +1,9 @@
+,id,geo,suburb,postcode,rent,La Trobe University - Mildura,crime,Early_Trans_Time,Night_Trans_Time,nightPT,uni_driving_distance,city_distance,city_driving_time,city_trans_time
+0,"(3500, 'Mildura West')","(-34.18, 142.16)",Mildura West,3500,288,0,2,7,55,TRUE,1.6 km,600 km,363,548
+1,"(3500, 'Mildura')","(-34.18, 142.16)",Mildura,3500,288,0,1,32,32,TRUE,2.6 km,608 km,359,721
+2,"(3498, 'Irymple')","(-34.23, 142.18)",Irymple,3498,288,5.856078725,11,67,41,FALSE,18.4 km,593 km,354,551
+6,"(3505, 'Merbein')","(-34.2, 142.06)",Merbein,3505,288,9.46285496,85,68,68,TRUE,19.2 km,618 km,366,720
+7,"(3505, 'Cabarita')","(-34.2, 142.06)",Cabarita,3505,288,9.46285496,18,54,54,TRUE,13.4 km,612 km,361,715
+8,"(3505, 'Birdwoodton')","(-34.2, 142.06)",Birdwoodton,3505,288,9.46285496,9,70,70,TRUE,16.9 km,615 km,364,730
+11,"(3496, 'Red Cliffs')","(-34.29, 142.15)",Red Cliffs,3496,288,12.26595653,19,54,26,FALSE,28.5 km,582 km,346,506
+16,"(3496, 'Sunnycliffs')","(-34.29, 142.15)",Sunnycliffs,3496,288,12.26595653,2,50,49,TRUE,22.4 km,597 km,347,715

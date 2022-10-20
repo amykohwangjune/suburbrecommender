@@ -1,0 +1,24 @@
+,id,geo,suburb,postcode,rent,Federation University - Berwick,crime,Early_Trans_Time,Night_Trans_Time,nightPT,uni_driving_distance,city_distance,city_driving_time,city_trans_time
+0,"(3806, 'Harkaway')","(-38.03, 145.34)",Harkaway,3806,270,0,1134,64,60,TRUE,10.3 km,53.8 km,43,118
+1,"(3806, 'Berwick')","(-38.03, 145.34)",Berwick,3806,288,0,412.5140736,13,13,TRUE,1.6 km,46.3 km,43,81
+2,"(3161, 'Caulfield Junction')","(-38.03, 145.31)",Caulfield Junction,3161,300,2.627611936,31,64,79,TRUE,35.4 km,10.3 km,26,43
+3,"(3161, 'Caulfield North')","(-38.03, 145.31)",Caulfield North,3161,300,2.627611936,40,66,80,TRUE,36.0 km,9.4 km,25,45
+4,"(3807, 'Guys Hill')","(-38.05, 145.37)",Guys Hill,3807,288,3.44212113,21,0,0,FALSE,36.0 km,9.4 km,48,45
+5,"(3807, 'Beaconsfield')","(-38.05, 145.37)",Beaconsfield,3807,288,3.44212113,819,21,21,TRUE,3.7 km,48.1 km,45,80
+6,"(3805, 'Narre Warren South')","(-38.02, 145.3)",Narre Warren South,3805,288,3.675935282,43,28,24,TRUE,11.3 km,44.6 km,42,81
+7,"(3805, 'Narre Warren')","(-38.02, 145.3)",Narre Warren,3805,288,3.675935282,109,22,22,TRUE,5.4 km,41.9 km,41,74
+8,"(3805, 'Fountain Gate')","(-38.02, 145.3)",Fountain Gate,3805,288,3.675935282,10,30,28,TRUE,6.2 km,42.6 km,38,76
+9,"(3976, 'Hampton Park')","(-38.03, 145.27)",Hampton Park,3976,310,6.131094399,238,30,36,TRUE,8.7 km,41.0 km,41,88
+10,"(3804, 'Narre Warren East')","(-37.97, 145.36)",Narre Warren East,3804,288,6.898025636,109,95,143,TRUE,44.4 km,52.1 km,44,157
+11,"(3804, 'Narre Warren North')","(-37.97, 145.36)",Narre Warren North,3804,288,6.898025636,77,39,38,TRUE,12.2 km,48.5 km,41,95
+13,"(3809, 'Officer')","(-38.06, 145.41)",Officer,3809,250,6.978741507,2235,15,15,TRUE,7.3 km,51.8 km,47,74
+14,"(3808, 'Beaconsfield Upper')","(-38.06, 145.41)",Beaconsfield Upper,3808,288,6.980947008,348,15,15,FALSE,7.3 km,51.8 km,50,74
+15,"(3803, 'Hallam')","(-38.0, 145.27)",Hallam,3803,288,6.980947008,20,32,38,TRUE,9.6 km,40.1 km,38,72
+17,"(3975, 'Lynbrook')","(-38.05, 145.26)",Lynbrook,3975,310,7.350502738,33,40,37,TRUE,12.3 km,41.1 km,39,76
+18,"(3975, 'Lyndhurst')","(-38.05, 145.26)",Lyndhurst,3975,310,7.350502738,10,70,61,TRUE,24.4 km,42.7 km,41,81
+19,"(3164, 'Dandenong South')","(-38.02, 145.24)",Dandenong South,3164,300,8.829600107,431,50,51,TRUE,21.0 km,38.2 km,42,86
+20,"(3177, 'Doveton')","(-38.0, 145.24)",Doveton,3177,270,9.374126809,6312,46,45,TRUE,17.5 km,35.0 km,35,83
+21,"(3177, 'Eumemmerring')","(-38.0, 145.24)",Eumemmerring,3177,270,9.374126809,1246,46,42,TRUE,13.0 km,36.4 km,36,76
+22,"(3802, 'Endeavour Hills')","(-37.98, 145.25)",Endeavour Hills,3802,288,9.648438169,109,48,56,TRUE,14.9 km,38.8 km,36,91
+23,"(3502, 'Mildura')","(-37.97, 145.26)",Mildura,3502,210,9.677262072,5531,533,564,TRUE,612 km,567 km,359,507
+24,"(3938, 'Mccrae')","(-37.99, 145.22)",Mccrae,3938,365,11.41546117,1612,167,378,TRUE,72.9 km,80.0 km,68,146

@@ -1,0 +1,7 @@
+,id,geo,suburb,postcode,rent,La Trobe University - Shepparton,crime,Early_Trans_Time,Night_Trans_Time,nightPT,uni_driving_distance,city_distance,city_driving_time,city_trans_time
+0,"(3630, 'Shepparton South')","(-36.36, 145.4)",Shepparton South,3630,288,0,25,3,3,TRUE,0.3 km,184 km,137,201
+1,"(3630, 'Shepparton')","(-36.36, 145.4)",Shepparton,3630,288,0,19,3,3,TRUE,0.3 km,184 km,137,201
+5,"(3630, 'Branditt')","(-36.36, 145.4)",Branditt,3630,288,0,26,16,34,TRUE,4.1 km,190 km,140,235
+6,"(3671, 'Benalla')","(-36.39, 145.42)",Benalla,3671,288,3.786038784,1,68,187,TRUE,62.1 km,204 km,145,215
+9,"(3629, 'Mooroopna')","(-36.38, 145.3)",Mooroopna,3629,288,9.225534187,5,25,27,TRUE,5.9 km,189 km,138,227
+10,"(3629, 'Ardmona')","(-36.38, 145.3)",Ardmona,3629,288,9.225534187,14,56,211,TRUE,11.1 km,186 km,138,351

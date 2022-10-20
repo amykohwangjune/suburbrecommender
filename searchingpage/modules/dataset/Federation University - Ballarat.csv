@@ -1,0 +1,30 @@
+,id,geo,suburb,postcode,rent,Federation University - Ballarat,crime,Early_Trans_Time,Night_Trans_Time,nightPT,uni_driving_distance,city_distance,city_driving_time,city_trans_time
+0,"(3350, 'Invermay Park')","(-37.56, 143.82)",Invermay Park,3350,205,0,2140,29,55,TRUE,6.4 km,121 km,90,140
+1,"(3350, 'Golden Point')","(-37.56, 143.82)",Golden Point,3350,205,0,177,23,28,TRUE,4.0 km,120 km,88,133
+2,"(3350, 'Soldiers Hill')","(-37.56, 143.82)",Soldiers Hill,3350,205,0,177,20,26,TRUE,2.8 km,117 km,88,120
+3,"(3350, 'Newington')","(-37.56, 143.82)",Newington,3350,205,0,60,19,17,TRUE,2.4 km,119 km,92,132
+4,"(3350, 'Nerrina')","(-37.56, 143.82)",Nerrina,3350,205,0,292,45,57,TRUE,9.0 km,122 km,87,169
+5,"(3350, 'Mount Pleasant')","(-37.56, 143.82)",Mount Pleasant,3350,205,0,74,28,28,TRUE,2.2 km,119 km,89,142
+6,"(3350, 'Mount Helen')","(-37.56, 143.82)",Mount Helen,3350,205,0,236,43,43,TRUE,12.5 km,126 km,90,146
+7,"(3350, 'Mount Clear')","(-37.56, 143.82)",Mount Clear,3350,205,0,162,24,31,TRUE,7.5 km,123 km,91,140
+8,"(3350, 'Lake Wendouree')","(-37.56, 143.82)",Lake Wendouree,3350,205,0,160,16,16,TRUE,1.8 km,117 km,92,125
+9,"(3350, 'Alfredton')","(-37.56, 143.82)",Alfredton,3350,288,0,3,17,17,TRUE,5.0 km,121 km,96,134
+10,"(3350, 'Redan')","(-37.56, 143.82)",Redan,3350,205,0,241,12,21,TRUE,2.1 km,118 km,91,144
+11,"(3350, 'Ballarat')","(-37.56, 143.82)",Ballarat,3350,288,0,111,17,17,TRUE,1.4 km,117 km,89,124
+12,"(3350, 'Ballarat Central')","(-37.56, 143.82)",Ballarat Central,3350,288,0,7,7,7,TRUE,0.6 km,116 km,90,112
+13,"(3350, 'Ballarat East')","(-37.56, 143.82)",Ballarat East,3350,288,0,15,27,26,TRUE,2.9 km,118 km,85,133
+14,"(3350, 'Ballarat North')","(-37.56, 143.82)",Ballarat North,3350,288,0,52,37,56,TRUE,8.5 km,121 km,88,149
+15,"(3350, 'Ballarat West')","(-37.56, 143.82)",Ballarat West,3350,190,0,631,17,17,TRUE,1.4 km,117 km,89,124
+16,"(3350, 'Black Hill')","(-37.56, 143.82)",Black Hill,3350,205,0,154,28,33,TRUE,5.3 km,118 km,86,133
+17,"(3350, 'Brown Hill')","(-37.56, 143.82)",Brown Hill,3350,205,0,2140,30,31,TRUE,6.7 km,123 km,82,163
+18,"(3350, 'Canadian')","(-37.56, 143.82)",Canadian,3350,205,0,2140,34,50,TRUE,5.4 km,121 km,88,142
+19,"(3350, 'Eureka')","(-37.56, 143.82)",Eureka,3350,205,0,676,23,33,TRUE,3.8 km,120 km,85,145
+20,"(3350, 'Bakery Hill')","(-37.56, 143.82)",Bakery Hill,3350,288,0,111,10,9,TRUE,1.6 km,116 km,86,119
+21,"(3355, 'Lake Gardens')","(-37.55, 143.82)",Lake Gardens,3355,288,1.111950837,2,21,33,TRUE,5.6 km,121 km,96,124
+22,"(3355, 'Mitchell Park')","(-37.55, 143.82)",Mitchell Park,3355,288,1.111950837,8,41,40,TRUE,9.1 km,123 km,97,145
+23,"(3355, 'Wendouree')","(-37.55, 143.82)",Wendouree,3355,288,1.111950837,10,19,21,TRUE,5.9 km,123 km,94,126
+24,"(3355, 'Wendouree Village')","(-37.55, 143.82)",Wendouree Village,3355,205,1.111950837,412.5140736,19,21,TRUE,5.9 km,123 km,94,126
+25,"(3356, 'Delacombe')","(-37.59, 143.83)",Delacombe,3356,288,3.450300247,154,28,29,TRUE,9.3 km,125 km,95,145
+26,"(3356, 'Sebastopol')","(-37.59, 143.83)",Sebastopol,3356,288,3.450300247,412.5140736,19,39,TRUE,4.8 km,121 km,94,134
+27,"(3354, 'Ballarat MC')","(-37.56, 143.87)",Ballarat MC,3354,288,4.407302778,1,27,33,TRUE,4.8 km,115 km,91,104
+28,"(3354, 'Bakery Hill')","(-37.56, 143.87)",Bakery Hill,3354,288,4.407302778,11,10,9,TRUE,1.6 km,116 km,86,119

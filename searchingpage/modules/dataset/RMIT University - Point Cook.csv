@@ -1,0 +1,11 @@
+,id,geo,suburb,postcode,rent,RMIT University - Point Cook,crime,Early_Trans_Time,Night_Trans_Time,nightPT,uni_driving_distance,city_distance,city_driving_time,city_trans_time
+0,"(3030, 'Werribee South')","(-37.97, 144.5)",Werribee South,3030,295,0,148,20,100,FALSE,4.0 km,45.9 km,39,85
+1,"(3030, 'Werribee')","(-37.97, 144.5)",Werribee,3030,295,0,4416,20,100,FALSE,4.0 km,34.0 km,38,52
+2,"(3030, 'Quandong')","(-37.97, 144.5)",Quandong,3030,295,0,8,20,100,FALSE,3.0 km,34.0 km,62,52
+3,"(3030, 'Point Cook')","(-37.97, 144.5)",Point Cook,3030,295,0,2272,39,39,TRUE,3.2 km,31.8 km,35,77
+4,"(3030, 'Derrimut')","(-37.97, 144.5)",Derrimut,3030,295,0,665,50,120,FALSE,3.2 km,21.0 km,33,64
+5,"(3030, 'Cocoroc')","(-37.97, 144.5)",Cocoroc,3030,295,0,10,50,120,FALSE,3.2 km,21.0 km,54,88
+6,"(3211, 'Little River')","(-37.97, 144.53)",Little River,3211,345,4.382937673,2262,134,300,FALSE,3.2 km,21.0 km,52,85
+7,"(3024, 'Mambourin')","(-37.9, 144.7)",Mambourin,3024,250,7.978837671,120,134,300,FALSE,25.0 km,44.9 km,49,85
+8,"(3024, 'Wyndham Vale')","(-37.9, 144.7)",Wyndham Vale,3024,250,7.978837671,993,134,300,FALSE,25.0 km,45.0 km,45,79
+9,"(3024, 'Mount Cottrell')","(-37.9, 144.7)",Mount Cottrell,3024,250,7.978837671,134,134,300,FALSE,25.0 km,45.0 km,44,82

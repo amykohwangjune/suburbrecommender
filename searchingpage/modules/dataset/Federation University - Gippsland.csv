@@ -1,0 +1,16 @@
+,id,geo,suburb,postcode,rent,Federation University - Gippsland,crime,Early_Trans_Time,Night_Trans_Time,nightPT,uni_driving_distance,city_distance,city_driving_time,city_trans_time
+0,"(3842, 'Churchill')","(-38.32, 146.42)",Churchill,3842,188,0,3,32,92,TRUE,2.5 km,160 km,115,202
+1,"(3869, 'Jumbuk')","(-38.4, 146.42)",Jumbuk,3869,200,8.895606698,6,32,0,FALSE,10 km,180 km,132,202
+2,"(3869, 'Yinnar')","(-38.4, 146.42)",Yinnar,3869,200,8.895606698,172,32,32,TRUE,12.8 km,172 km,114,238
+3,"(3869, 'Yinnar South')","(-38.4, 146.42)",Yinnar South,3869,200,8.895606698,172,32,32,FALSE,12.8 km,173 km,119,238
+4,"(3840, 'Jeeralang')","(-38.28, 146.32)",Jeeralang,3840,288,9.794474392,37,32,32,FALSE,13.5 km,170 km,123,238
+5,"(3840, 'Hazelwood')","(-38.28, 146.32)",Hazelwood,3840,288,9.794474392,37,32,32,FALSE,10.5 km,165 km,115,238
+6,"(3840, 'Hazelwood North')","(-38.28, 146.32)",Hazelwood North,3840,288,9.794474392,37,38,96,TRUE,10.5 km,165 km,114,244
+7,"(3840, 'Jeeralang Junction')","(-38.28, 146.32)",Jeeralang Junction,3840,288,9.794474392,37,38,96,FALSE,13.5 km,170 km,116,244
+8,"(3840, 'Hazelwood South')","(-38.28, 146.32)",Hazelwood South,3840,288,9.794474392,4,54,54,TRUE,4.0 km,165 km,117,244
+9,"(3840, 'Driffield')","(-38.28, 146.32)",Driffield,3840,288,9.794474392,37,54,54,FALSE,16.1 km,144 km,108,244
+10,"(3840, 'Morwell Upper')","(-38.28, 146.32)",Morwell Upper,3840,188,9.794474392,60,30,30,TRUE,16.1 km,144 km,110,134
+11,"(3840, 'Morwell East')","(-38.28, 146.32)",Morwell East,3840,188,9.794474392,20,30,30,TRUE,16.1 km,144 km,110,134
+12,"(3840, 'Morwell')","(-38.28, 146.32)",Morwell,3840,188,9.794474392,14,30,30,TRUE,16.1 km,144 km,110,134
+13,"(3840, 'Mid Valley')","(-38.28, 146.32)",Mid Valley,3840,288,9.794474392,11,26,26,TRUE,11.4 km,148 km,111,154
+14,"(3840, 'Maryvale')","(-38.28, 146.32)",Maryvale,3840,288,9.794474392,2,26,26,FALSE,11.4 km,149 km,117,154

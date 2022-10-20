@@ -1,0 +1,5 @@
+,id,geo,suburb,postcode,rent,La Trobe University - Albury-Wodonga,crime,Early_Trans_Time,Night_Trans_Time,nightPT,uni_driving_distance,city_distance,city_driving_time,city_trans_time
+0,"(3690, 'West Wodonga')","(-36.1, 146.82)",West Wodonga,3690.0,288.0,0.0,93.0,19,19,True,1.5 km,303 km,206,260
+1,"(3690, 'Wodonga')","(-36.1, 146.82)",Wodonga,3690.0,288.0,0.0,93.0,27,51,True,11.1 km,314 km,208,275
+2,"(3690, 'Wodonga Plaza')","(-36.1, 146.82)",Wodonga Plaza,3690.0,288.0,0.0,45.0,33,42,True,4.4 km,303 km,207,262
+3,"(3694, 'Bandiana Milpo')","(-36.14, 146.92)",Bandiana Milpo,3694.0,288.0,10.02308274,4.0,62,63,True,17.9 km,320 km,217,317

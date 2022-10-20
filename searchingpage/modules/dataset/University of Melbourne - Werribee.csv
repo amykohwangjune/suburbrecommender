@@ -1,0 +1,10 @@
+,id,geo,suburb,postcode,rent,University of Melbourne - Werribee,crime,Early_Trans_Time,Night_Trans_Time,nightPT,uni_driving_distance,city_distance,city_driving_time,city_trans_time
+0,"(3030, 'Werribee South')","(-37.97, 144.5)",Werribee South,3030,295,0,148,58,47,TRUE,14.3 km,45.9 km,39,85
+1,"(3030, 'Werribee')","(-37.97, 144.5)",Werribee,3030,295,0,4416,18,30,TRUE,3.3 km,34.0 km,38,52
+2,"(3030, 'Quandong')","(-37.97, 144.5)",Quandong,3030,295,0,8,0,0,FALSE,3.3 km,34.0 km,62,60
+3,"(3030, 'Point Cook')","(-37.97, 144.5)",Point Cook,3030,295,0,2272,54,61,TRUE,10.9 km,31.8 km,35,77
+4,"(3030, 'Derrimut')","(-37.97, 144.5)",Derrimut,3030,295,0,665,79,103,TRUE,29.0 km,21.0 km,33,64
+6,"(3211, 'Little River')","(-37.97, 144.53)",Little River,3211,345,4.382937673,2262,79,103,FALSE,29.0 km,21.0 km,52,75
+7,"(3024, 'Mambourin')","(-37.9, 144.7)",Mambourin,3024,250,7.978837671,120,83,86,TRUE,15.3 km,44.9 km,49,85
+8,"(3024, 'Wyndham Vale')","(-37.9, 144.7)",Wyndham Vale,3024,250,7.978837671,993,45,60,TRUE,8.8 km,45.0 km,45,79
+9,"(3024, 'Mount Cottrell')","(-37.9, 144.7)",Mount Cottrell,3024,250,7.978837671,134,45,60,TRUE,8.8 km,45.0 km,44,79

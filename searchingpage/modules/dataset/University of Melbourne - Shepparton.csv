@@ -1,0 +1,12 @@
+,id,geo,suburb,postcode,rent,University of Melbourne - Shepparton,crime,Early_Trans_Time,Night_Trans_Time,nightPT,uni_driving_distance,city_distance,city_driving_time,city_trans_time
+0,"(3630, 'Shepparton South')","(-36.36, 145.4)",Shepparton South,3630,288,0,25,20,33,TRUE,4.7 km,184 km,137,201
+1,"(3630, 'Shepparton')","(-36.36, 145.4)",Shepparton,3630,288,0,19,20,33,TRUE,4.7 km,184 km,137,201
+4,"(3630, 'Caniambo')","(-36.36, 145.4)",Caniambo,3630,288,0,48,20,33,FALSE,4.7 km,185 km,141,210
+5,"(3630, 'Branditt')","(-36.36, 145.4)",Branditt,3630,288,0,26,8,8,TRUE,0.6 km,190 km,140,235
+6,"(3671, 'Benalla')","(-36.39, 145.42)",Benalla,3671,288,3.786038784,1,107,275,TRUE,66.5 km,204 km,145,215
+7,"(3629, 'Undera')","(-36.38, 145.3)",Undera,3629,288,9.225534187,82,107,275,FALSE,66.5 km,205 km,147,215
+8,"(3629, 'Mooroopna North')","(-36.38, 145.3)",Mooroopna North,3629,288,9.225534187,82,107,275,FALSE,66.5 km,206 km,143,215
+9,"(3629, 'Mooroopna')","(-36.38, 145.3)",Mooroopna,3629,288,9.225534187,5,36,39,TRUE,10.6 km,189 km,136,227
+10,"(3629, 'Ardmona')","(-36.38, 145.3)",Ardmona,3629,288,9.225534187,14,75,75,TRUE,15.5 km,186 km,138,351
+11,"(3629, 'Coomboona')","(-36.38, 145.3)",Coomboona,3629,288,9.225534187,5,85,85,FALSE,25.0 km,25.0 km,150,351
+12,"(3633, 'Congupna')","(-36.3, 145.48)",Congupna,3633,288,9.791313445,8,85,85,FALSE,25.0 km,25.0 km,148,351

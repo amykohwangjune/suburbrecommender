@@ -1,0 +1,165 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<head>
+    <title>Search Results</title>
+    <style>
+        .suburb_details {
+            width: 800px;
+            background: rgba(31, 138, 170, 0.2) !important;
+            color: black !important;
+            border-radius: 5px;
+            text-align: left;
+        }
+
+        /* to make subrub details text closer together */
+        p {
+            margin: 0;
+        }
+
+        h4 {
+            margin: 0;
+        }
+
+
+        /* to make suburb score on the right side */
+        .suburb_score {
+            float: right;
+            text-align: center;
+            padding-top: 1%;
+            background-color: #26b439;
+            clip-path: polygon(50% 0, 100% 100%, 0 100%);
+            width: 110px;
+            height: 110px;
+            margin-right: 5%;
+
+        }
+
+        /* to make whole suburb information box a clickable link */
+        a {
+            color: black;
+            background-color: transparent;
+            text-decoration: none;
+
+        }
+
+        a:link {
+            color: black;
+            background-color: transparent;
+            text-decoration: none;
+        }
+
+        p:link {
+            color: black;
+            background-color: transparent;
+            text-decoration: none;
+        }
+
+        h1,p,h3 {
+            text-align: left;
+            color: black;
+            background-color: transparent;
+            text-decoration: none;
+
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="container"><br><br>
+        <!-- added back button -->
+        <button class="btn btn-info" onclick="history.back()" type="button">
+            &#8249 BACK</button><br><br>
+
+    {% for suburb in suburbs %}
+    <br>
+        <!-- for redirecting to detail suburb info -->
+
+        <div class="suburb_details">
+            <a href="/detail/{{suburb.suburb_name_postcode}}">
+
+                <!-- replaced br with &nbsp (blank space) to make link work at top and bottom of box -->
+                <p>&nbsp</p>
+
+                <div class="suburb_score" id="{{suburb.suburb_name_postcode}}">
+
+                    <br>
+                    <br>
+
+                    <!-- changing color of triangle based on value of score -->
+                    <!--  background-color: #26b439; -->
+
+                    <!-- javascript script to assign colors based on value of score -->
+                    <script>
+                        var score = "{{suburb.suburb_score}}";
+                        console.log(score);
+
+                        var element = document.getElementById("{{suburb.suburb_name_postcode}}");
+                        console.log(element)
+
+                        if (score >= 0 && score < 10) {
+                            element.style.backgroundColor = "#e00b0b"
+                            
+                        } else if (score >= 10 && score < 20) {
+                            element.style.backgroundColor = "#e63c3c"
+                        
+                        } else if (score >= 20 && score < 30) {
+                            element.style.backgroundColor = "#ec6d6d"
+                            
+                        } else if (score >= 30 && score < 40) {
+                            element.style.backgroundColor = "#f39d9d"
+
+                        } else if (score >= 40 && score <= 50) {
+                            element.style.backgroundColor = "#f9cece"
+
+                        } else if (score >= 50 && score < 60) {
+                            element.style.backgroundColor = "#d3f2d3"
+                            
+                        
+                        } else if (score >= 60 && score < 70) {
+                            element.style.backgroundColor = "#a8e5a8"
+                            
+                        } else if (score >= 70 && score < 80) {
+                            element.style.backgroundColor = "#7cd87c"
+
+                        } else if (score >= 80 && score < 90) {
+                            element.style.backgroundColor = "#51cb51"
+
+                        } else if (score >= 90 && score <= 100) {
+                            element.style.backgroundColor = "#25be25"
+
+                        }
+                    
+                    </script>
+
+                    <h4>{{suburb.suburb_score}}</h4>
+                    <h6>SCORE</h6>
+
+                </div>
+
+                <span style="text-transform:uppercase">
+                    <h3>&nbsp&nbsp&nbsp {{suburb.suburb}} ({{ suburb.postcode }})</h3>
+                </span>
+
+
+                <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Transit Time To Uni: {{suburb.transit_time_to_uni}} minutes</p>
+                <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Night Time Public Transport Access: {{suburb.night_public_transport}}
+                </p>
+                <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Safety Score: {{suburb.safety}}</p>
+                <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Average Weekly Rent: ${{suburb.average_rent}}</p>
+
+                <p>&nbsp</p>
+            </a>
+
+        </div>
+
+
+
+
+        {% endfor %}
+    </div>
+
+</body>
+{% endblock %}

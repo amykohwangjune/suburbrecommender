@@ -1,0 +1,15 @@
+,id,geo,suburb,postcode,rent,Deakin University - Geelong,crime,Early_Trans_Time,Night_Trans_Time,nightPT,uni_driving_distance,city_distance,city_driving_time,city_trans_time
+0,"(3220, 'South Geelong')","(-38.18, 145.11)",South Geelong,3220.0,295.0,0.0,172.0,24,23,True,3.4 km,85.4 km,72,105
+1,"(3220, 'Newtown')","(-38.18, 145.11)",Newtown,3220.0,295.0,0.0,534.0,29,29,True,3.8 km,89.4 km,69,116
+2,"(3220, 'Geelong')","(-38.18, 145.11)",Geelong,3220.0,295.0,0.0,333.0,7,9,True,0.7 km,83.2 km,69,91
+3,"(3220, 'Bareena')","(-38.18, 145.11)",Bareena,3220.0,295.0,0.0,122.0,27,18,True,2.7 km,85.3 km,70,107
+4,"(3930, 'Mount Eliza')","(-38.19, 145.08)",Mount Eliza,3930.0,240.0,2.848076953,63.0,177,467,True,134 km,51.4 km,56,102
+5,"(3930, 'Kunyung')","(-38.19, 145.08)",Kunyung,3930.0,240.0,2.848076953,85.0,186,475,True,135 km,52.8 km,58,113
+6,"(3199, 'Frankston')","(-38.15, 145.12)",Frankston,3199.0,310.0,3.448511592,297.0,166,166,True,127 km,44.3 km,44,88
+7,"(3199, 'Karingal Centre')","(-38.15, 145.12)",Karingal Centre,3199.0,260.0,3.448511592,1665.0,191,533,True,131 km,47.1 km,46,113
+8,"(3199, 'Karingal')","(-38.15, 145.12)",Karingal,3199.0,260.0,3.448511592,1665.0,191,533,True,131 km,47.1 km,46,113
+9,"(3199, 'Frankston South')","(-38.15, 145.12)",Frankston South,3199.0,310.0,3.448511592,631.0,165,538,True,130 km,51.2 km,48,118
+10,"(3199, 'Frankston Heights')","(-38.15, 145.12)",Frankston Heights,3199.0,310.0,3.448511592,358.0,202,539,True,130 km,47.1 km,49,99
+11,"(3199, 'Frankston East')","(-38.15, 145.12)",Frankston East,3199.0,310.0,3.448511592,203.0,166,166,True,127 km,44.3 km,44,88
+12,"(3911, 'Langwarrin South')","(-38.2, 145.16)",Langwarrin South,3911.0,220.0,4.903125296,8.0,215,495,True,136 km,54.2 km,52,117
+13,"(3911, 'Baxter')","(-38.2, 145.16)",Baxter,3911.0,220.0,4.903125296,16.0,178,441,True,133 km,51.6 km,50,95

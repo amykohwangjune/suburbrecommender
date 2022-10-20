@@ -1,0 +1,2 @@
+id,geo,suburb,postcode,rent,RMIT University - Bendigo Airfield,crime,Early_Trans_Time,Night_Trans_Time,nightPT,uni_driving_distance,city_distance,city_driving_time,city_trans_time
+"(3552, 'Bendigo')","(-37.83, 145.01)",Bendigo,3552,288,10.76976291,205,14,40,TRUE,3.5 km,165 km,116,146

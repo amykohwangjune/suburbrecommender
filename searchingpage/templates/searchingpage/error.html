@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<head>
+  <title>Error Page</title>
+
+
+  <style>
+    .page_text {
+        text-align: left;
+        margin-left: 2%;
+    }
+
+    .back_button{
+            /* border-radius: 20px; */
+            background: rgba(31, 138, 170, 1);
+            color: black;
+            padding: 5px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 45%;
+            /* margin: 4px 2%; */
+            cursor: pointer;
+        }
+
+  </style>
+
+
+</head>
+
+<body>
+
+  <div class="page_text">
+    <br><br>
+    <h1>Help Page</h1>
+    <br><br>
+
+    <h2>The criteria you have provided has resulted in zero suburb recommendations. Please try again with slightly different criteria</h2>
+    <br>
+
+  </div>
+
+    <!-- added back button -->
+    <button class="back_button" onclick="location.href='/'" type="button">
+    Try Again</button>
+</body>
+
+{% endblock content %}
