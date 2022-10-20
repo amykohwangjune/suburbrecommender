@@ -45,16 +45,6 @@ INSTALLED_APPS = [
     'contactpage',
     'helppage',
     'searchingpage',
-
-    # 'allauth',
-    # 'allauth.account',
-    # 'allauth.socialaccount',
-
-    # 'allauth.socialaccount.providers.apple',
-    # 'allauth.socialaccount.providers.facebook',
-    # 'allauth.socialaccount.providers.google',
-
-    # 'signin.apps.AccountConfig',
 ]
 
 MIDDLEWARE = [
