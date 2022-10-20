@@ -25,7 +25,7 @@ from searchingpage.views import searchingpage, detail_view, resultpage_view
 
 urlpatterns = [
     # path('admin/', admin.site.urls),
-    path('', searchingpage),
+    path('/', searchingpage),
     path('contactpage/', contactpage_view,),
     path('helppage/', helppage_view),
     path('resultpage/', resultpage_view),
